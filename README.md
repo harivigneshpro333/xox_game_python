@@ -3,6 +3,10 @@
 # xox_game_python
 #Gui_game_Tkinter
 
+Software Used:
+              * Python Idle 
+              * Pycharm
+
 modulus imoprted:
                * Import Tkinter
 Concepts used here are:
